@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and secrets
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Written by the notebook cell that uses chromadb.PersistentClient
+rag_db/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
