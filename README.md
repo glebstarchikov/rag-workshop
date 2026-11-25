@@ -35,7 +35,7 @@ Jupyter notebook, Google Gemini API, ChromaDB, sentence-transformers.
 
 ## Status
 
-Maintained (Nov 2026).
+Maintained, November 2026.
 
 ## License
 
